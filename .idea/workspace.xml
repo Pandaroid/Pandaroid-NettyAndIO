@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f2ec04-8835-49fb-841f-c0ad289b9a35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaroid/bio/BIOClientDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaroid/bio/BIOServerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaroid/nio/NIOServerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandaroid/bio/BIOServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pandaroid/bio/BIOServerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pandaroid/nio/NIOServerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pandaroid/nio/NIOServerDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588565380892</updated>
-      <workItem from="1588565386934" duration="2829000" />
+      <workItem from="1588565386934" duration="7107000" />
     </task>
     <servers />
   </component>
@@ -102,22 +95,26 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="300" key="GridCell.Tab.0.bottom" timestamp="1588576731729">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1588579214233">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588576731729" />
-    <state width="1878" height="300" key="GridCell.Tab.0.center" timestamp="1588576731728">
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588579214233" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom" timestamp="1588606275565">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588576731728" />
-    <state width="1878" height="300" key="GridCell.Tab.0.left" timestamp="1588576731727">
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588606275565" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center" timestamp="1588606275563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588576731727" />
-    <state width="1878" height="300" key="GridCell.Tab.0.right" timestamp="1588576731729">
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588606275563" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left" timestamp="1588606275563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588576731729" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588606275563" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right" timestamp="1588606275564">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588606275564" />
     <state x="498" y="202" key="Maven.ArtifactSearchDialog" timestamp="1588574073801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

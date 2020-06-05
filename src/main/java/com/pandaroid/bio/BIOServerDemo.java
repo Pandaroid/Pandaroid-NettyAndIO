@@ -27,7 +27,8 @@ public class BIOServerDemo {
     }
 
     public static void main(String[] args) {
-        new BIOServerDemo().listen();
+        // new BIOServerDemo() 不加括号也可以，加括号是为了可读性
+        (new BIOServerDemo()).listen();
     }
 
     private void listen() {
